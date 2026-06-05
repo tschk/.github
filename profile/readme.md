@@ -55,7 +55,7 @@ Projects:
 
 ## Inauguration
 
-A capability-aware compiler pipeline and orchestration language for deterministic execution, distributed systems, and agent-native software.
+A capability-aware compiler pipeline (with support for multiple frontends) and orchestration language for deterministic execution, distributed systems, and agent-native software.
 
 [Repository](https://github.com/tschk/inauguration)
 
