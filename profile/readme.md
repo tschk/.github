@@ -9,7 +9,7 @@ Write once. Target desktop, terminal, web, browser extensions, mobile, and embed
 Crepuscularity combines React-style development with native rendering across GPUI, Ratatui, SwiftUI, Jetpack Compose, MV3 extensions, LVGL, and the web with a Rust, Javascript or Swift backend.
 
 [![Stars](https://img.shields.io/github/stars/tschk/crepuscularity?style=for-the-badge)](https://github.com/tschk/crepuscularity/stargazers)
-[![Crates.io](https://img.shields.io/crates/d/crepuscularity?style=for-the-badge)](https://crates.io/crates/crepuscularity-core)
+[![Crates.io](https://img.shields.io/crates/d/crepuscularity-core?style=for-the-badge)](https://crates.io/crates/crepuscularity-core)
 [![Repository](https://img.shields.io/badge/repository-crepuscularity-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/crepuscularity)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tschk/crepuscularity\&type=Date)](https://www.star-history.com/#tschk/crepuscularity&Date)
