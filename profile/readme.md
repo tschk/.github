@@ -1,6 +1,6 @@
 # The Software Company of Hong Kong
 
-an independent R&D lab building systems software, runtimes, developer tools, application platforms, operating systems, browsers, and programming languages.
+an independent R&D lab building systems software, runtimes, developer tools, application platforms, and experimental computing platforms.
 
 ## Crepuscularity
 
