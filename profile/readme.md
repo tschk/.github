@@ -35,7 +35,7 @@ Cross-language interoperability without glue code.
 
 Load any C-compiling language from any other C-compiling language while preserving native developer workflows.
 
-[Repository](https://github.com/tschk/equilibrium)
+[![Repository](https://img.shields.io/badge/repository-equilibrium-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/equilibrium)
 
 Projects:
 
@@ -43,11 +43,13 @@ Projects:
 
 ---
 
-## RV8
+## Alpenglow
 
-A browser engine combining Servo rendering with the V8 JavaScript engine.
+A hyperlightweight musl+LLVM Linux distribution. Boots in less than a second, smaller than an average image taken on a phone.
 
-[Repository](https://github.com/tschk/rv8)
+Alpenglow supports two deployment modes: an immutable initramfs-only appliance mode with a RAM root and GlowFS overlay, and a normal rootfs mode for package-managed systems.
+
+[![Repository](https://img.shields.io/badge/repository-alpenglow-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/alpenglow)
 
 Projects:
 
@@ -55,12 +57,20 @@ Projects:
 
 ---
 
+## RV8
+
+A browser engine combining Servo rendering with the V8 JavaScript engine.
+
+[![Repository](https://img.shields.io/badge/repository-rv8-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/rv8)
+
+---
+
 ## Inauguration
 
 A capability-aware compiler pipeline (with support for multiple frontends) and orchestration language for deterministic execution, distributed systems, and agent-native software.
 
-[Repository](https://github.com/tschk/inauguration)
+[![Repository](https://img.shields.io/badge/repository-inauguration-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/inauguration)
 
 Projects:
 
-* Space — persistent object-oriented nanokernel *(coming soon)*
+* [Space](https://github.com/tschk/space) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
