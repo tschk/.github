@@ -2,9 +2,7 @@
 
 an independent R&D lab building systems software, runtimes, developer tools, application platforms, and experimental computing platforms.
 
-## Crepuscularity
-
-[crepuscularity.tsc.hk](https://crepuscularity.tsc.hk)
+## [Crepuscularity](https://crepuscularity.tsc.hk)
 
 Write once. Target desktop, terminal, web, browser extensions, mobile, and embedded systems.
 
@@ -43,7 +41,7 @@ Projects:
 
 ---
 
-## Alpenglow
+## [Alpenglow](https://alpenglow.tsc.hk)
 
 A hyperlightweight musl+LLVM Linux distribution. Boots in less than a second, smaller than an average image taken on a phone.
 
@@ -65,7 +63,7 @@ A browser engine combining Servo rendering with the V8 JavaScript engine.
 
 ---
 
-## Inauguration
+## [Inauguration](https://inauguration.tsc.hk)
 
 A capability-aware compiler pipeline (with support for multiple frontends) and orchestration language for deterministic execution, distributed systems, and agent-native software.
 
@@ -73,7 +71,7 @@ A capability-aware compiler pipeline (with support for multiple frontends) and o
 
 Projects:
 
-* [Space](https://github.com/tschk/space) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
+* [Space](https://space.tsc.hk) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
 
 ---
 
@@ -85,10 +83,8 @@ A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, prov
 
 ---
 
-## Nexnet
+## [Nexnet](https://nexnet.tsc.hk)
 
 An open-source, local-first peer-to-peer social chat network with wallet identity, private encrypted messaging, and no central message store.
-
-[nexnet.tsc.hk](https://nexnet.tsc.hk)
 
 [![Repository](https://img.shields.io/badge/repository-nexnet-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/nexnet)
