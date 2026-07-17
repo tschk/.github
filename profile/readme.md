@@ -74,3 +74,21 @@ A capability-aware compiler pipeline (with support for multiple frontends) and o
 Projects:
 
 * [Space](https://github.com/tschk/space) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
+
+---
+
+## Rotary
+
+A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, providers, sessions, permissions, computer-use, and IPC while retaining product and scheduling policy.
+
+[![Repository](https://img.shields.io/badge/repository-rotary-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/rotary)
+
+---
+
+## Nexnet
+
+An open-source, local-first peer-to-peer social chat network with wallet identity, private encrypted messaging, and no central message store.
+
+[nexnet.tsc.hk](https://nexnet.tsc.hk)
+
+[![Repository](https://img.shields.io/badge/repository-nexnet-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/nexnet)
