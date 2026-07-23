@@ -83,6 +83,14 @@ A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, prov
 
 ---
 
+## Apollo
+
+A local-first Rust AI agent runtime built on Rotary and ZKR. Telegram-first messaging, device-first deployment, and a self-improving loop over memory and skills.
+
+[![Repository](https://img.shields.io/badge/repository-apollo-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/apollo)
+
+---
+
 ## [Nexnet](https://nexnet.tsc.hk)
 
 An open-source, local-first peer-to-peer social chat network with wallet identity, private encrypted messaging, and no central message store.
