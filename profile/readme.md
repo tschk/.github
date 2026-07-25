@@ -93,7 +93,7 @@ A local-first Rust AI agent runtime built on Rotary and ZKR. ~14MB binary, async
 
 ## Moonshine
 
-Hyperminimal Bun-first signal runtime for crepuscularity View IR, plus a Bayer-dither component kit. No React dependency by default — import what you need. Adapters for React, Svelte 5, Vue 3, Solid, Angular, Next.js, Waku, and Dart. Ships with a CLI for scaffolding, compiling .crepus View IR to TSX, and dev servers.
+A hyperminimal UI runtime for the web. Bun-first, signals at the core, everything else an import. No metaframework lock-in — bring your own host (Vite, Waku, Next, Astro, Remix, Nuxt, TanStack Start) through thin re-export packages. Author in `.tsx`, or compile `.crepus` into moonshine for a lighter DSL. Inspired by Solid's signals, Svelte's approachability, and Waku's lightness.
 
 [![Repository](https://img.shields.io/badge/repository-moonshine-181717?style=for-the-badge&logo=github)](https://github.com/tschk/moonshine)
 
