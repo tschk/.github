@@ -85,9 +85,17 @@ A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, prov
 
 ## Apollo
 
-A local-first Rust AI agent runtime built on Rotary and ZKR. Telegram-first messaging, device-first deployment, and a self-improving loop over memory and skills. Successor to [unthinkclaw](https://github.com/undivisible/unthinkclaw).
+A local-first Rust AI agent runtime built on Rotary and ZKR. ~14MB binary, async-first (tokio), trait-driven. Ships with 10+ messaging channels (Telegram, Discord, Slack, WhatsApp, Matrix, Signal, IRC, Google Chat, MS Teams), 20+ LLM providers, pluggable memory with SurrealDB + RocksDB, tool guardrails with loop detection, streaming tool-call parsing, autonomous coding mode that runs 24/7 and only commits on passing tests, and a JSON-RPC plugin system with lifecycle hooks. Hot-reloadable tools, skills, and system prompt. Self-update via git poll + rebuild.
 
-[![Repository](https://img.shields.io/badge/repository-apollo-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/apollo)
+[![Repository](https://img.shields.io/badge/repository-apollo-181717?style=for-the-badge&logo=github)](https://github.com/tschk/apollo)
+
+---
+
+## Moonshine
+
+Hyperminimal Bun-first signal runtime for crepuscularity View IR, plus a Bayer-dither component kit. No React dependency by default — import what you need. Adapters for React, Svelte 5, Vue 3, Solid, Angular, Next.js, Waku, and Dart. Ships with a CLI for scaffolding, compiling .crepus View IR to TSX, and dev servers.
+
+[![Repository](https://img.shields.io/badge/repository-moonshine-181717?style=for-the-badge&logo=github)](https://github.com/tschk/moonshine)
 
 ---
 
