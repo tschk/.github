@@ -19,7 +19,6 @@ Crepuscularity combines React-style development with native rendering across GPU
 Projects built on Crepuscularity:
 
 * [Aurorality](https://github.com/tschk/aurorality) — native Apple platform tooling and SwiftUI generation
-* [Dot](https://github.com/tschk/dot) — terminal-native AI agent
 * [rs_vimium](https://github.com/tschk/rs_vimium) — Vimium reimagined in Rust
 * [Anywhere](https://github.com/tschk/anywhere) — interactive AI-generated interfaces and artifacts
 * [Drift](https://github.com/tschk/drift) — the macOS screensaver as your wallpaper
@@ -52,7 +51,6 @@ Alpenglow supports two deployment modes: an immutable initramfs-only appliance m
 Projects:
 
 * [Soliloquy](https://github.com/tschk/soliloquy) — immutable web-native operating system
-* [Subspace](https://github.com/tschk/subspace) — statically composed capability-safe embedded operating system
 
 ---
 
@@ -73,6 +71,7 @@ A capability-aware compiler pipeline (with support for multiple frontends) and o
 Projects:
 
 * [Space](https://space.tsc.hk) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
+* [Subspace](https://github.com/tschk/subspace) — statically composed capability-safe embedded operating system
 
 ---
 
@@ -86,7 +85,7 @@ A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, prov
 
 ## Apollo
 
-A local-first Rust AI agent runtime built on Rotary and ZKR. Telegram-first messaging, device-first deployment, and a self-improving loop over memory and skills.
+A local-first Rust AI agent runtime built on Rotary and ZKR. Telegram-first messaging, device-first deployment, and a self-improving loop over memory and skills. Successor to [unthinkclaw](https://github.com/undivisible/unthinkclaw).
 
 [![Repository](https://img.shields.io/badge/repository-apollo-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/apollo)
 
