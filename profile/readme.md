@@ -52,6 +52,7 @@ Alpenglow supports two deployment modes: an immutable initramfs-only appliance m
 Projects:
 
 * [Soliloquy](https://github.com/tschk/soliloquy) — immutable web-native operating system
+* [Subspace](https://github.com/tschk/subspace) — statically composed capability-safe embedded operating system
 
 ---
 
@@ -88,6 +89,30 @@ A pure Rust agent harness engine. Hosts embed it for the agent loop, tools, prov
 A local-first Rust AI agent runtime built on Rotary and ZKR. Telegram-first messaging, device-first deployment, and a self-improving loop over memory and skills.
 
 [![Repository](https://img.shields.io/badge/repository-apollo-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/apollo)
+
+---
+
+## ZKR
+
+Evidence-backed temporal memory engine for personal agents. Gives agents persistent, verifiable memory with temporal context.
+
+[![Repository](https://img.shields.io/badge/repository-zkr-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/zkr)
+
+---
+
+## Praefectus
+
+Provider-neutral, verified computer-use execution for Rust.
+
+[![Repository](https://img.shields.io/badge/repository-praefectus-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/praefectus)
+
+---
+
+## Wax
+
+Fast homebrew-compatible package manager in Rust. Uses Homebrew's ecosystem (formulae, bottles, casks) without the Ruby/Git overhead — compiled, async, parallel installs, lockfiles.
+
+[![Repository](https://img.shields.io/badge/repository-wax-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/wax)
 
 ---
 
