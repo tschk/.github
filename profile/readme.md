@@ -93,7 +93,7 @@ A local-first Rust AI agent runtime built on Rotary and ZKR. ~14MB binary, async
 
 ## Moonshine
 
-A hyperminimal UI runtime for the web. Bun-first, signals at the core, everything else an import. No metaframework lock-in — bring your own host (Vite, Waku, Next, Astro, Remix, Nuxt, TanStack Start) through thin re-export packages. Author in `.tsx`, or compile `.crepus` into moonshine for a lighter DSL. Inspired by Solid's signals, Svelte's approachability, and Waku's lightness.
+Moonshine is a ground-up, Bun-first web framework built from a hyperminimal signal kernel. Start with signals; add only the routing, rendering, server, compiler, and deployment layers your project needs.
 
 [![Repository](https://img.shields.io/badge/repository-moonshine-181717?style=for-the-badge&logo=github)](https://github.com/tschk/moonshine)
 
