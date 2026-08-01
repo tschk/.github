@@ -26,17 +26,11 @@ Projects built on Crepuscularity:
 
 ---
 
-## Equilibrium
+## [Moonshine](https://moonshine.tsc.hk)
 
-Cross-language interoperability without glue code.
+Moonshine is a hyperminimal, Bun-first UI runtime built around a signal-only kernel. Start with signals; add only the compiler, routing, rendering, server, and deployment layers your project needs, then ship to Bun, Node, Cloudflare, or Vercel. `.crepus` templates are parsed by the Crepuscularity Rust parser compiled to WebAssembly and rendered to React or Solid, with template class tokens preserved so UnoCSS or Tailwind styles the output.
 
-Load any C-compiling language from any other C-compiling language while preserving native developer workflows.
-
-[![Repository](https://img.shields.io/badge/repository-equilibrium-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/equilibrium)
-
-Projects:
-
-* [EqSwift](https://github.com/tschk/eqswift) — Rust ↔ Swift interoperability
+[![Repository](https://img.shields.io/badge/repository-moonshine-181717?style=for-the-badge&logo=github)](https://github.com/tschk/moonshine)
 
 ---
 
@@ -51,14 +45,6 @@ Alpenglow supports two deployment modes: an immutable initramfs-only appliance m
 Projects:
 
 * [Soliloquy](https://github.com/tschk/soliloquy) — immutable web-native operating system
-
----
-
-## RV8
-
-A browser engine combining Servo rendering with the V8 JavaScript engine.
-
-[![Repository](https://img.shields.io/badge/repository-rv8-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/rv8)
 
 ---
 
@@ -91,14 +77,6 @@ A local-first Rust AI agent runtime built on Rotary and ZKR. ~14MB binary, async
 
 ---
 
-## Moonshine
-
-Moonshine is a hyperminimal, Bun-first UI runtime built around a signal-only kernel. Start with signals; add only the compiler, routing, rendering, server, and deployment layers your project needs, then ship to Bun, Node, Cloudflare, or Vercel. `.crepus` templates are parsed by the Crepuscularity Rust parser compiled to WebAssembly and rendered to React or Solid, with template class tokens preserved so UnoCSS or Tailwind styles the output.
-
-[![Repository](https://img.shields.io/badge/repository-moonshine-181717?style=for-the-badge&logo=github)](https://github.com/tschk/moonshine)
-
----
-
 ## ZKR
 
 Evidence-backed temporal memory engine for personal agents. Gives agents persistent, verifiable memory with temporal context.
@@ -120,6 +98,28 @@ Provider-neutral, verified computer-use execution for Rust.
 Fast homebrew-compatible package manager in Rust. Uses Homebrew's ecosystem (formulae, bottles, casks) without the Ruby/Git overhead — compiled, async, parallel installs, lockfiles.
 
 [![Repository](https://img.shields.io/badge/repository-wax-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/wax)
+
+## Equilibrium
+
+Cross-language interoperability without glue code.
+
+Load any C-compiling language from any other C-compiling language while preserving native developer workflows.
+
+[![Repository](https://img.shields.io/badge/repository-equilibrium-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/equilibrium)
+
+Projects:
+
+* [EqSwift](https://github.com/tschk/eqswift) — Rust ↔ Swift interoperability
+
+---
+
+## RV8
+
+A browser engine combining Servo rendering with the V8 JavaScript engine.
+
+[![Repository](https://img.shields.io/badge/repository-rv8-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/rv8)
+
+---
 
 ---
 
