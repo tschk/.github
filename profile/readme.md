@@ -45,6 +45,7 @@ Alpenglow supports two deployment modes: an immutable initramfs-only appliance m
 Projects:
 
 * [Soliloquy](https://github.com/tschk/soliloquy) — immutable web-native operating system
+* [Alpenglowed](https://github.com/tschk/alpenglowed) — Raycast-style keyboard-centric desktop shell for Alpenglow
 
 ---
 
@@ -93,6 +94,14 @@ Provider-neutral, verified computer-use execution for Rust.
 
 ---
 
+## Darash
+
+Provider-neutral async search client + crate for agents.
+
+[![Repository](https://img.shields.io/badge/repository-darash-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/darash)
+
+---
+
 ## Wax
 
 Fast homebrew-compatible package manager in Rust. Uses Homebrew's ecosystem (formulae, bottles, casks) without the Ruby/Git overhead — compiled, async, parallel installs, lockfiles.
@@ -110,6 +119,7 @@ Load any C-compiling language from any other C-compiling language while preservi
 Projects:
 
 * [EqSwift](https://github.com/tschk/eqswift) — Rust ↔ Swift interoperability
+* [EqTS](https://github.com/tschk/eqts) — One Rust API for TypeScript across Node, Bun, Deno, and WebAssembly
 
 ---
 
