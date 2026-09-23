@@ -94,7 +94,7 @@ Provider-neutral, verified computer-use execution for Rust.
 
 ---
 
-## Darash
+## [Darash](https://darash.tsc.hk)
 
 Provider-neutral async search client + crate for agents.
 
@@ -120,6 +120,7 @@ Projects:
 
 * [EqSwift](https://github.com/tschk/eqswift) — Rust ↔ Swift interoperability
 * [EqTS](https://github.com/tschk/eqts) — One Rust API for TypeScript across Node, Bun, Deno, and WebAssembly
+* [Rig](https://GitHub.com/tschk/rig) — package manager for all Equilibrium supported languages, works as if it was native.
 
 ---
 
