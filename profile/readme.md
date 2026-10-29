@@ -20,8 +20,8 @@ Projects built on Crepuscularity:
 
 * [Aurorality](https://github.com/tschk/aurorality) — native Apple platform tooling and SwiftUI generation
 * [rs_vimium](https://github.com/tschk/rs_vimium) — Vimium reimagined in Rust
-* [Anywhere](https://github.com/tschk/anywhere) — interactive AI-generated interfaces and artifacts
-* [Drift](https://github.com/tschk/drift) — the macOS screensaver as your wallpaper
+* [Anywhere](https://github.com/undivisible/anywhere) — interactive AI-generated interfaces and artifacts
+* [Drift](https://github.com/undivisible/drift-wallpaper) — the macOS screensaver as your wallpaper
 * Mono — distributed application platform *(coming soon)*
 
 ---
@@ -58,7 +58,6 @@ A capability-aware compiler pipeline (with support for multiple frontends) and o
 Projects:
 
 * [Space](https://space.tsc.hk) — post-POSIX operating system where components, capabilities, and execution graphs replace processes and syscalls
-* [Subspace](https://github.com/tschk/subspace) — statically composed capability-safe embedded operating system
 
 ---
 
