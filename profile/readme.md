@@ -106,7 +106,7 @@ Provider-neutral async search client + crate for agents.
 
 Fast homebrew-compatible package manager in Rust. Uses Homebrew's ecosystem (formulae, bottles, casks) without the Ruby/Git overhead — compiled, async, parallel installs, lockfiles.
 
-[![Repository](https://img.shields.io/badge/repository-wax-181717?style=for-the-badge\&logo=github)](https://github.com/tschk/wax)
+[![Repository](https://img.shields.io/badge/repository-wax-181717?style=for-the-badge\&logo=github)](https://github.com/plyght/wax)
 
 ## Equilibrium
 
